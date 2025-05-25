@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+h1{
+    text-align: center;
+}
+
+
+a{
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+    border-radius: 50px;
+    font-weight: bold;
+}
